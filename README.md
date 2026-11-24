@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Drew 👋
 
-<!--
-**DrewPatton77/DrewPatton77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn messy data into clear answers. My background is in computational neuroscience (MSc Physics), and I build end-to-end data pipelines, from ingestion, modelling, analysis to dashboards with analytics. Currently focused on data analytics and data engineering. Open to roles across Canada.
 
-Here are some ideas to get you started:
+## Featured projects
+- **[GA4 E-commerce Pipeline](https://github.com/DrewPatton77/GA4-Ecommerce-End-to-End-Data-Pipeline)**: BigQuery → Postgres star schema → Power BI report
+- **[StrataYYC](https://github.com/DrewPatton77/StrataYYC)**: daily pipeline for Calgary 311 and weather data (Python, S3, Athena, dbt, Airflow, Tableau)
+- **[rag-search-engine](https://github.com/DrewPatton77/rag-search-engine)**: hybrid BM25 + semantic search with reciprocal rank fusion
+- **[Ocean-Rythms](https://github.com/DrewPatton77/Ocean-Rhythms)**: sea-surface temperature anomaly variation analysis (Jupyter Notebook) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+- [Aging-Chimeras](https://github.com/DrewPatton77/Aging-Chimeras): brain-network simulations (PLOS Comp. Bio.)
+- [Rock-Fracture](https://github.com/DrewPatton77/Rock-Fracture): acoustic-emission analysis (Phys. Rev. E)
+
+## Tech
+Python · SQL · dbt · Airflow · AWS (S3, Athena) · Docker · PostgreSQL · Power BI · Tableau · R · MATLAB
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/drew-patton-1abbb7320/) · [Email](andrew.patton@ucalgary.ca)
