@@ -13,7 +13,7 @@ I turn messy data into clear answers. My background is in Physics (MSc Physics) 
 - [Rock-Fracture](https://github.com/DrewPatton77/Rock-Fracture): acoustic-emission analysis (Phys. Rev. E)
 
 ## Tech
-Python · SQL · dbt · Airflow · AWS (S3, Athena) · Docker · PostgreSQL · Power BI · Tableau · R · MATLAB
+Python · SQL · dbt · Airflow · AWS (S3, Athena) · Google Cloud Platform · BigQuery · Docker · PostgreSQL · Power BI · Tableau · R · MATLAB
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/drew-patton-1abbb7320/) · [Email](andrew.patton@ucalgary.ca)
