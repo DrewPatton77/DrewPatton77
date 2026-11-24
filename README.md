@@ -1,6 +1,6 @@
 # Hi, I'm Drew 👋
 
-I turn messy data into clear answers. My background is in computational neuroscience (MSc Physics), and I build end-to-end data pipelines, from ingestion, modelling, analysis to dashboards with analytics. Currently focused on data analytics and data engineering. Open to roles across Canada.
+I turn messy data into clear answers. My background is in Physics (MSc Physics) with a concentration in Complexity Science, and I build end-to-end data pipelines, from ingestion, modelling, analysis to dashboards with analytics. Currently focused on data analytics and data engineering. Open to roles across Canada.
 
 ## Featured projects
 - **[GA4 E-commerce Pipeline](https://github.com/DrewPatton77/GA4-Ecommerce-End-to-End-Data-Pipeline)**: BigQuery → Postgres star schema → Power BI report
